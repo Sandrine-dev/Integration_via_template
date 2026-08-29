@@ -215,6 +215,7 @@ footer /* manque animation*/
         display: flex;
         flex-direction: row;
         }
+        
     #Menu1{
         background-color: $Peche;
         font-family: 'Devonshire-Regular', Arial, Helvetica, sans-serif;
@@ -568,7 +569,7 @@ img{
             display: none;
         }
     }
-    .PlatsP,{
+    .PlatsP{
         flex-direction: column;
         justify-content: center;
         text-align: center;
